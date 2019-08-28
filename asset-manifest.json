@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/offline-game/static/css/main.7cd31703.chunk.css",
+    "main.js": "/offline-game/static/js/main.b819e135.chunk.js",
+    "main.js.map": "/offline-game/static/js/main.b819e135.chunk.js.map",
+    "runtime~main.js": "/offline-game/static/js/runtime~main.94be288d.js",
+    "runtime~main.js.map": "/offline-game/static/js/runtime~main.94be288d.js.map",
+    "static/js/2.8ebd3ea5.chunk.js": "/offline-game/static/js/2.8ebd3ea5.chunk.js",
+    "static/js/2.8ebd3ea5.chunk.js.map": "/offline-game/static/js/2.8ebd3ea5.chunk.js.map",
+    "index.html": "/offline-game/index.html",
+    "precache-manifest.b92740209036c85dcb4838e1fb7889aa.js": "/offline-game/precache-manifest.b92740209036c85dcb4838e1fb7889aa.js",
+    "service-worker.js": "/offline-game/service-worker.js",
+    "static/css/main.7cd31703.chunk.css.map": "/offline-game/static/css/main.7cd31703.chunk.css.map"
+  }
+}
