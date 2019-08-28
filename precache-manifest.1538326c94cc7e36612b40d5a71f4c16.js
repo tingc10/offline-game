@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3bcd3fd60177e55e722a4c904222ed7",
+    "revision": "b04410d156eadf08bf9bb57758bdc3e2",
     "url": "/offline-game/index.html"
   },
   {
-    "revision": "a5913fa7f4a39d61c617",
+    "revision": "cf73bb1ecf628997da3c",
     "url": "/offline-game/static/css/main.7cd31703.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/offline-game/static/js/2.8ebd3ea5.chunk.js"
   },
   {
-    "revision": "a5913fa7f4a39d61c617",
-    "url": "/offline-game/static/js/main.b819e135.chunk.js"
+    "revision": "cf73bb1ecf628997da3c",
+    "url": "/offline-game/static/js/main.bf3373cf.chunk.js"
   },
   {
     "revision": "df4dd1144d437080fdd4",
